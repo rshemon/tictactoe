@@ -1,1 +1,1 @@
-Command line tic tac toe game in RUBY
+Tic tac toe game in RUBY
